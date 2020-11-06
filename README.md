@@ -10,4 +10,3 @@ Comecei a programar em **2017** criando plugins para o jogo **Minecraft**. Em **
   * E-mail: dev.wesleygabriel@gmail.com
   * Twitter: [WesleyGames001](https://twitter.com/WesleyGames001)
   * Instagram: [WesleyGames001](https://instagram.com/WesleyGames001)
-  * Discord: $Wesley Gabriel.cpp#0060
